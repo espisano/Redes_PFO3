@@ -42,4 +42,4 @@ python cliente.py
 ### Diagrama
 
 
-![Registro](assets/Diagrama.png
+![Registro](assets/Diagrama.png)
